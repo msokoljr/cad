@@ -2,7 +2,8 @@
 
 3D models that can be used in AutoCAD or Inventor, or any CAD software that accepts either common Autodesk formats or STEP files. All of these models were created either practicality in repeatative application, for peer or coworker support, or skill development.
 
-## This page is still work-in-progress, to do:
+## Work-in-progress...
+To do:
  - ☑ Curate model list
  - 🟨 Update links
  - 🟨 Upload files
