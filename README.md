@@ -14,7 +14,7 @@ To do:
 | file | description | version |
 |:-----|:-----|:-----:|
 | [north-arrow.dwg](null) | A common "North" arrow that can be rotated with grips, with 30° polar snaps. | 1.0 |
-| [flow-arrow.dwg](null) | Generic arrow with "FLOW" text that automatically alights to stay vertical or horizontal to reading orientation | 1.0 |
+| [flow-arrow.dwg](https://github.com/msokoljr/cad/blob/main/FLOW%20ARROW.dwg) | Generic arrow with "FLOW" text that automatically alights to stay vertical or horizontal to reading orientation | 1.0 |
 
 ## Inventor
 | file | description | version |
