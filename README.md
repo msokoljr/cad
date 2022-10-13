@@ -1,6 +1,6 @@
 # cad
 
-3D models that can be used in AutoCAD or Inventor, or any CAD software that accepts either common Autodesk formats or STEP files. All of these models were created either practicality in repeatative application, for peer or coworker support, or skill development.
+This is a collection of 2D and 3D models that can be used in AutoCAD or Inventor, or any CAD software that accepts either common CAD formats. All of these models were created either for practicality in repeatative application, for peer or coworker support, for training, or skill development.
 
 ## Work-in-progress...
 To do:
