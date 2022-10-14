@@ -4,9 +4,9 @@ This is a collection of 2D and 3D models that can be used in AutoCAD or Inventor
 
 ## Work-in-progress...
 To do:
- - ☑ Curate model list
- - 🟨 Update links
- - 🟨 Upload files
+ - [x] Curate model list
+ - [ ] Update links
+ - [ ] Upload files
 
 &nbsp;
 
